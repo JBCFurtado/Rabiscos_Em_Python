@@ -25,7 +25,7 @@ def Primeiro_Num():
 def Result_Media():
     return (Num_Soma() / (exabyte - 1))
 print('\nO maior valor digitado foi =', Num_Maximo())
-print('A soma dos números foi =', Num_Soma())
 print('O primeiro número digitado foi =', Primeiro_Num())
 print('A média é =', Result_Media())
+print('A soma dos números foi =', Num_Soma())
 print('A soma dos números negativos é =', yottabyte)
